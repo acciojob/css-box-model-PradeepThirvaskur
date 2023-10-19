@@ -1,8 +1,10 @@
 div{
     width: 300px;
     padding: 50px;
-    color: lightblue;
+    
     border: 15px solid blue;
-    margin: 220px;
+    margin: 20px;
+	background-color: lightblue;
+	
 }
 /* Your CSS Code here. */
